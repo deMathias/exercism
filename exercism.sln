@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SqueakyClean", "csharp\sque
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ResistorColor", "csharp\resistor-color\ResistorColor.csproj", "{C68993E1-7A73-4672-850D-A50FEC134D51}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leap", "csharp\leap\Leap.csproj", "{7903B05C-1F1B-4979-9E27-1128D45CFE7D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{C68993E1-7A73-4672-850D-A50FEC134D51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C68993E1-7A73-4672-850D-A50FEC134D51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C68993E1-7A73-4672-850D-A50FEC134D51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7903B05C-1F1B-4979-9E27-1128D45CFE7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7903B05C-1F1B-4979-9E27-1128D45CFE7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7903B05C-1F1B-4979-9E27-1128D45CFE7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7903B05C-1F1B-4979-9E27-1128D45CFE7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
