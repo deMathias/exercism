@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Opolusia\\exercism\\csharp\\cars-assemble\\CarsAssemble.csproj": {}
+    "C:\\Users\\Opolusia\\exercism\\csharp\\bird-watcher\\BirdWatcher.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Opolusia\\exercism\\csharp\\cars-assemble\\CarsAssemble.csproj": {
+    "C:\\Users\\Opolusia\\exercism\\csharp\\bird-watcher\\BirdWatcher.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Opolusia\\exercism\\csharp\\cars-assemble\\CarsAssemble.csproj",
-        "projectName": "CarsAssemble",
-        "projectPath": "C:\\Users\\Opolusia\\exercism\\csharp\\cars-assemble\\CarsAssemble.csproj",
+        "projectUniqueName": "C:\\Users\\Opolusia\\exercism\\csharp\\bird-watcher\\BirdWatcher.csproj",
+        "projectName": "BirdWatcher",
+        "projectPath": "C:\\Users\\Opolusia\\exercism\\csharp\\bird-watcher\\BirdWatcher.csproj",
         "packagesPath": "C:\\Users\\Opolusia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Opolusia\\exercism\\csharp\\cars-assemble\\obj\\",
+        "outputPath": "C:\\Users\\Opolusia\\exercism\\csharp\\bird-watcher\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Opolusia\\AppData\\Roaming\\NuGet\\NuGet.Config",
