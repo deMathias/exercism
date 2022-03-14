@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElonsToys", "csharp\elons-t
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BirdWatcher", "csharp\bird-watcher\BirdWatcher.csproj", "{EF55D87B-4D42-4899-93AC-492675E0237E}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SqueakyClean", "csharp\squeaky-clean\SqueakyClean.csproj", "{9F263901-2B3F-411A-8DCE-7E12EE9EB3FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{EF55D87B-4D42-4899-93AC-492675E0237E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF55D87B-4D42-4899-93AC-492675E0237E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF55D87B-4D42-4899-93AC-492675E0237E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F263901-2B3F-411A-8DCE-7E12EE9EB3FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F263901-2B3F-411A-8DCE-7E12EE9EB3FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F263901-2B3F-411A-8DCE-7E12EE9EB3FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F263901-2B3F-411A-8DCE-7E12EE9EB3FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
