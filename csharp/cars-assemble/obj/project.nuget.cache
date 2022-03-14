@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0kOF+0UNtMIfvXOe4yD8kvyrygidW92kV6Gi6fubWw1DQPDrZaBrLVERY0auDfrxfHCdiMA6RWPUkSVFEj9keg==",
+  "dgSpecHash": "+H13X4YbIZg2tQjY1a4i0ej3gR9gSstWaq+FsxhJwXQcIpjanKWgsFFkYWsOgPrbJyZ1x0uHZ042PFxoPHX35A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Opolusia\\exercism\\csharp\\cars-assemble\\CarsAssemble.csproj",
+  "projectFilePath": "c:\\Users\\Opolusia\\exercism\\csharp\\cars-assemble\\CarsAssemble.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Opolusia\\.nuget\\packages\\exercism.tests\\0.1.0-beta1\\exercism.tests.0.1.0-beta1.nupkg.sha512",
     "C:\\Users\\Opolusia\\.nuget\\packages\\microsoft.codecoverage\\16.8.3\\microsoft.codecoverage.16.8.3.nupkg.sha512",
